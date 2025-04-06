@@ -23,3 +23,35 @@
         - Player Outfit Slot Flag Constant
         - Room Currency Constant
         - Room Key Constant
+- ## Constants
+    - ## Unlisted
+        - Reward
+- ## Control Flow
+    - ## Unlisted
+        - Delay
+        - Execution Integer Switch
+        - Execution String Switch
+        - For
+        - For Each
+        - If
+        - Sequence
+- ## Conversion
+    - ## Color
+        - Color To HSV
+        - Color To RGB
+        - HSV To Color
+        - Parse Color
+        - RGB To Color
+    - ## Unlisted
+        - Ceil to Int
+        - Floor to Int
+        - From Rec Room Object
+        - Int to Float
+        - Parse Bool
+        - Parse Color
+        - Parse Float
+        - Parse Int
+        - Round to Int
+        - To Combatant (BETA)
+        - To Rec Room Object
+        - To String
