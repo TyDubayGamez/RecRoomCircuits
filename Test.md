@@ -5,3 +5,21 @@
         - Music Constant
         - Sample Audio Constant
         - SFX Constant
+    - ### Moods
+        - Background Objects Constant
+        - Fog Constant
+        - Skydome Constant
+        - Sun Constant
+    - ### Objective Marker
+        - Objective Marker Constant
+    - ### Quick Chat Table
+        - Quick Chat Table
+    - ### Unlisted
+        - Avatar Item
+        - Color Constant
+        - Community Even Constant
+        - Consumable Constant
+        - Destination Room Constant
+        - Player Outfit Slot Flag Constant
+        - Room Currency Constant
+        - Room Key Constant
