@@ -24,10 +24,10 @@
         - Room Currency Constant
         - Room Key Constant
 - ## Constants
-    - ## Unlisted
+    - ### Unlisted
         - Reward
 - ## Control Flow
-    - ## Unlisted
+    - ### Unlisted
         - Delay
         - Execution Integer Switch
         - Execution String Switch
@@ -36,13 +36,13 @@
         - If
         - Sequence
 - ## Conversion
-    - ## Color
+    - ### Color
         - Color To HSV
         - Color To RGB
         - HSV To Color
         - Parse Color
         - RGB To Color
-    - ## Unlisted
+    - ### Unlisted
         - Ceil to Int
         - Floor to Int
         - From Rec Room Object
@@ -55,3 +55,21 @@
         - To Combatant (BETA)
         - To Rec Room Object
         - To String
+- ## Dictionary (BETA)
+    - ### Unlisted
+        - Dictionary Create Empty (BETA)
+        - Dictionary Get Property (BETA)
+        - Dictionary Has Property (BETA)
+        - Dictionary Remove Property (BETA)
+        - Dictionary Update Property (BETA)
+        - Dictionary Variable
+- ## Economy
+    - ### Avatar Item
+        - Avatar Item (BETA)
+        - Show Avatar Item Details (BETA)
+    - ### Consumable
+        - Award Consumable
+        - Consumable Activate
+        - Consumable Constant
+        - Consumable Deactivate
+        - Show Purchase Prompt
